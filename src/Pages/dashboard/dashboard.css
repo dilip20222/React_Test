@@ -1,0 +1,16 @@
+.btn {
+    margin: 10px;
+    width: 150px;
+}
+
+.deleteModel{
+    border: 1px solid rgb(192, 186, 186);
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+    position: absolute;
+    top: 35%;
+    right: 25%;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,12 @@
+.loginPage{
+    width: 100%;
+    height: 990px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(137 133 133));
+}
+
+.formData {
+    display: flex;
+}

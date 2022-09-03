@@ -1,0 +1,34 @@
+.show {
+  text-align: center;
+  position: absolute;
+  top: 31%;
+  right: 45%;
+  left: 31%;
+  width: 40%;
+  height: 35%;
+  background-color: whitesmoke;
+  border: 1px solid black;
+}
+
+.updateForm {
+  padding: 10px;
+}
+
+.updateForm input {
+  margin-bottom: 25px;
+}
+.nameInput {
+  width: 100%;
+  margin: 5px;
+}
+
+.emailInput {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.formBtn {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}

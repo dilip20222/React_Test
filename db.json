@@ -1,0 +1,80 @@
+{
+  "AuthUser": [
+    {
+      "id": 3237,
+      "name": "Aagam Rana 12332424",
+      "email": "aagam_rana@reichert-okuneva.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3236,
+      "name": "TTest",
+      "email": "rajiv_hon_kapoor_the@miller.org",
+      "gender": "female",
+      "status": "active",
+      "firstName": "Theeffsd",
+      "lastName": "dfdfdfThe"
+    },
+    {
+      "id": 3235,
+      "name": "Aruna Mukhopadhyay",
+      "email": "mukhopadhyay_aruna@tremblay.info",
+      "gender": "female",
+      "status": "active",
+      "firstName": "Aruna test",
+      "lastName": "Aruna"
+    },
+    {
+      "id": 3234,
+      "name": "Laal Singh",
+      "email": "laal_singh@stiedemann.co",
+      "gender": "male",
+      "status": "inactive",
+      "firstName": "Laal12131",
+      "lastName": "Laal"
+    },
+    {
+      "id": 3233,
+      "name": "Amrit Asan",
+      "email": "asan_amrit@hane.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "email": "asan_amrit@hane.com",
+      "gender": "male",
+      "name": "Amrit Asan",
+      "status": "inactive",
+      "id": 3241
+    },
+    {
+      "email": "sthrus23@eail.com",
+      "gender": "male",
+      "name": "Aagam Rana 12332424",
+      "status": "active",
+      "id": 3242
+    },
+    {
+      "email": "sthrus23@eail.comree",
+      "gender": "male",
+      "name": "TTest3242342",
+      "status": "active",
+      "id": 3243
+    }
+  ],
+  "loginData": [
+    {
+      "firstName": "Test@gmail.com",
+      "lastName": "Test",
+      "password": "321231231231",
+      "id": "Test@gmail.com321231231231"
+    },
+    {
+      "firstName": "Test3424@gmail.com",
+      "lastName": "Manojgddgfd",
+      "password": "321231231231",
+      "id": "Test3424@gmail.com321231231231"
+    }
+  ]
+}
